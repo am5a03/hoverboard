@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Season 2018",
+  "title": "GDG DevFest Season 2024",
   "description": "Join the community, learn new things!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "dates": "October 12-13, 2024",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
   "followOur": "Follow our",
@@ -44,8 +44,8 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG Burnaby",
+          "url": "https://gdg.community.dev/gdg-burnaby/",
           "newTab": true
         },
         {
@@ -56,11 +56,6 @@
         {
           "name": "DevFest",
           "url": "https://devfest.withgoogle.com/",
-          "newTab": true
-        },
-        {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
           "newTab": true
         }
       ]
@@ -135,7 +130,7 @@
     "title": "About",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "GDG DevFest Burnaby brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
